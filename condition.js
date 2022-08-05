@@ -24,7 +24,7 @@
 // num2="2223"
 // console.log(num1==num2)
 
-for(i=1;i<=20;i++)
-console.log()
+for (i = 1; i <= 20; i++)
+    console.log()
 
 
